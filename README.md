@@ -86,8 +86,3 @@ This script requires root/sudo access to test LUKS devices. Use responsibly and 
 ## Adding Custom Keyboard Layouts
 
 You can extend the script by adding new layouts to the `KEYBOARD_LAYOUTS` dictionary. Each layout maps keys to their adjacent keys (horizontally and vertically).
-
-# luks2-password-typo-guesser
-# luks2-password-typo-guesser
-# luks2-password-typo-guesser -- LLM-generated first pass
-# luks2-password-typo-guesser -- LLM-generated first pass
