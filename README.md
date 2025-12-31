@@ -90,3 +90,4 @@ You can extend the script by adding new layouts to the `KEYBOARD_LAYOUTS` dictio
 # luks2-password-typo-guesser
 # luks2-password-typo-guesser
 # luks2-password-typo-guesser -- LLM-generated first pass
+# luks2-password-typo-guesser -- LLM-generated first pass
